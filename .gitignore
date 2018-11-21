@@ -1,0 +1,11 @@
+##########
+#Workshop#
+##########
+
+\.spyproject/
+__pycache__/
+Dataset/
+DATABASE/
+test_images/
+standard_test_images/
+
